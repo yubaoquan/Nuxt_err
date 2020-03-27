@@ -8,6 +8,7 @@
 
 <script>
 import Bar from 'bar'
+
 export default {
   components: { Bar }
 }

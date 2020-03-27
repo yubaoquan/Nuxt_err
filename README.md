@@ -1,5 +1,7 @@
 # Nuxt_err
-Show the nuxt error
+Show the nuxt error in nuxt v2.11.x
+
+Bug is Fixed in nuxt v2.12.x
 
 1. Go to root folder
 ```
